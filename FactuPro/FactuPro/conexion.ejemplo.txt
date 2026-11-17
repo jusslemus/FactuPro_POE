@@ -1,0 +1,2 @@
+﻿# Copie este archivo como conexion.txt, borre esta línea y ponga los datos reales de Aiven.
+Server=HOST_DE_AIVEN;Port=PUERTO;Database=FactuPro;Uid=USUARIO;Pwd=CLAVE;SslMode=Required;
